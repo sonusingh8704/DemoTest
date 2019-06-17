@@ -1,0 +1,7 @@
+02:45:12.076 [main] INFO  resources.base - Terms and conditions have been accepted
+02:45:13.108 [main] INFO  resources.base - signup details has been submitted for account creation
+02:45:43.113 [main] ERROR resources.base - validation has failed due to ..... reason
+03:48:42.943 [main] INFO  resources.base - navigated to signup page
+03:48:45.556 [main] INFO  resources.base - secured password has been saved
+03:48:49.493 [main] INFO  resources.base - Terms and conditions have been accepted
+03:48:50.330 [main] INFO  resources.base - signup details has been submitted for account creation
